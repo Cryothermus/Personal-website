@@ -1,0 +1,51 @@
+body {
+  background-color: lightgrey;
+}
+
+h2 {
+  font-family: "Segoe Ui";
+}
+
+#navbar {
+  background-color: mediumturquoise;
+  height: 35px;
+  border-collapse: collapse;
+  border-radius: 10px;
+}
+
+.navbtn {
+  background-color: mediumturquoise;
+  font-family: "Segoe Ui";
+  height: 35px;
+  width: 120px;
+  font-size: 20px;
+  border: 0;
+  padding: 0;
+}
+
+.navbtn:hover {
+  background-color: #2eb8b3;
+}
+
+.infobox {
+  margin-left: 2%;
+  margin-right: 2%;
+  display: none;
+}
+
+#about-text {
+  margin-left: 2%;
+  margin-right: 2%;
+  display: block;
+}
+
+
+#selfportrait {
+  width: 200px;
+  border-radius: 20px;
+  margin-right: 22px;
+}
+
+footer {
+  text-align: center;
+}
